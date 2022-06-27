@@ -42,6 +42,11 @@ const questions = [
         message: 'What is the name of your github repo?'
     },
     {
+        type: 'input',
+        name: 'tests',
+        message: 'What are directions for testing this project?'
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'Please select the type of license',

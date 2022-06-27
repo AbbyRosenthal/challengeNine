@@ -1,8 +1,9 @@
-# Abby's Project
-![Github license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+# Abby
+
+ ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-it's awesome
+Dabby
 
   ## Table of Contents 
   
@@ -10,21 +11,28 @@ it's awesome
   
   * [Usage](#usage)
 
+  * [Contribution](#contribution)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
+
   * [License](#license)
 
 
   ## Installation 
-install
+Doo
   ## Usage
-use
+Flew
   ## Contribution
-contribute
+Blue
   ## Tests
-undefined
+Snoo
 
 ## License 
- This Project is Licensed under the GPL 3.0 license
+ This Project is Licensed under the MIT license
 
   ## Questions 
-  abby
-  adlundeen@gmailcom
+  You 
+
+  Chew
