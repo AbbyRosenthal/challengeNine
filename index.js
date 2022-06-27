@@ -9,27 +9,62 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'What is the title of your project?'
+        message: 'What is the title of your project?',
+        validate: projectTitle => {
+            if (projectTitle) {
+                return true;
+            } else {
+                console.log('Please enter your project title!')
+            }
+        }
     },
     {
         type: 'input',
         name: 'description',
-        message: 'What is a brief description of your project?'
+        message: 'What is a brief description of your project?',
+        validate: projectDescription => {
+            if (projectDescription) {
+                return true;
+            } else {
+                console.log('Please enter a description of your project!')
+            }
+        }
     },
     {
         type: 'input',
         name: 'install',
-        message: 'What are directions for installation?'
+        message: 'What are directions for installation?',
+        validate: projectInstall => {
+            if (projectInstall) {
+                return true;
+            } else {
+                console.log('Please directions for installation!')
+            }
+        }
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'What are directions for usage?'
+        message: 'What are directions for usage?',
+        validate: projectUsage => {
+            if (projectUsage) {
+                return true;
+            } else {
+                console.log('Please enter a directions for usage!')
+            }
+        }
     },
     {
         type: 'input',
         name: 'contribution',
-        message: 'What are directions for contribution?'
+        message: 'What are directions for contribution?',
+        validate: projectContirbution => {
+            if (projectContirbution) {
+                return true;
+            } else {
+                console.log('Please enter a directions for contribution!')
+            }
+        }
     },
     {
         type: 'input',
@@ -39,7 +74,7 @@ const questions = [
     {
         type: 'input',
         name: 'github',
-        message: 'What is the name of your github repo?'
+        message: 'What is the link to your GitHub repo?'
     },
     {
         type: 'input',
@@ -64,7 +99,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 async function init() {
     const answers = await inquirer.prompt(questions)
-    writeToFile("README.md", generateMarkdown(answers))
+    writeToFile("GeneratedREADME.md", generateMarkdown(answers))
     console.log("README created!")
 }
 
