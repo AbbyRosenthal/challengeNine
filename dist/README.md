@@ -1,20 +1,30 @@
-# abby
+# Abby's Project
+![Github license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
 
   ## Description
-abby
-  ## Table of Contents
+it's awesome
 
-  ## Install
-abby
+  ## Table of Contents 
+  
+  * [Installation](#installation)
+  
+  * [Usage](#usage)
+
+  * [License](#license)
+
+
+  ## Installation 
+install
   ## Usage
-abby
+use
   ## Contribution
-abby
+contribute
   ## Tests
 undefined
-  ## License
-undefined
+
+## License 
+ This Project is Licensed under the GPL 3.0 license
 
   ## Questions 
   abby
-  abby
+  adlundeen@gmailcom

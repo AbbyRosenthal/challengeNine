@@ -41,13 +41,12 @@ const questions = [
         name: 'github',
         message: 'What is the name of your github repo?'
     },
-    // {
-    //     type: 'list',
-    //     name: 'license',
-    //     message: 'Please select the type of license',
-    //     //what are license choices?????
-    //     choice: []
-    // }
+    {
+        type: 'list',
+        name: 'license',
+        message: 'Please select the type of license',
+        choices: ["MIT", "Apache 2.0", "GPL 3.0", "No License"]
+    }
 ]
 
 
