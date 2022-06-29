@@ -5,6 +5,4 @@ This project uses the command line to generate a professional README based on us
 
 ![screenshot](/Screen%20Shot%202022-06-27%20at%2011.36.04%20AM.png)
 
-## Live URL
-
-  https://abbyrosenthal.github.io/challengeNine/
+## Link to Walkthrough Video

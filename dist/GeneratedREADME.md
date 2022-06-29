@@ -1,9 +1,8 @@
-# README Generator
+# Abby's New Project
 
- ![Github license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
 
   ## Description
-This project generates a professional readme based on user input
+this generates a readme file
 
   ## Table of Contents 
   
@@ -17,22 +16,20 @@ This project generates a professional readme based on user input
 
   * [Questions](#questions)
 
-  * [License](#license)
-
+  
 
   ## Installation 
-clone from GitHub
+install information
   ## Usage
-N/A
+usage information
   ## Contribution
-N/A
+contribution information
   ## Tests
-n/a
+testing information
 
-## License 
- This Project is Licensed under the GPL 3.0 license
+
 
   ## Questions 
-  www.github.com/AbbyRosenthal-readme-generator 
+  AbbyRosenthal/readme-generator 
 
   adlundeen@gmail.com
