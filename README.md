@@ -6,3 +6,5 @@ This project uses the command line to generate a professional README based on us
 ![screenshot](/Screen%20Shot%202022-06-27%20at%2011.36.04%20AM.png)
 
 ## Link to Walkthrough Video
+
+https://drive.google.com/file/d/1BO-BIPgKXRI4jHVZ4YnOmNQUG1dv9kt6/view 
